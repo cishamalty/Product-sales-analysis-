@@ -1,7 +1,8 @@
 # TECHNIQUE USED:
 **I use Python Pandas & Python to analyze and answer business questions about SuperStore of sales data. Seaborn, pandas, matplotlib Data cleaning, data analysis**
--Which are the most selling products?
--Which are the Top 10 products by sales?
+
+* Which are the most selling products?
+* Which are the Top 10 products by sales?
 Which are the most profitable products?
 What category sold the most?
 Which are the most profitable category?
